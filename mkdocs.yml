@@ -16,8 +16,8 @@ theme:
     - tabs
   language: en
   palette:
-    primary: red
-    accent: red
+    primary: green
+    accent: green
 
 extra:
   social:
@@ -33,13 +33,15 @@ extra:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
 markdown_extensions:
-  - codehilite
+  - codehilite:
+      linenums: true
   - admonition
   - pymdownx.arithmatex
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - pymdownx.highlight
 
 copyright: |
   &copy; 2020 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
