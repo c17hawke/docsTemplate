@@ -4,7 +4,7 @@ site_name: REPO_NAME_OR_SITE_NAME
 nav:
   - Home: index.md
   - Feedback: feedback.md
-# site_url: https://github.com/c17hawke/covid-responder-lex-bot/
+
 site_author: Sunny Bhaveen Chandra
 site_description: >-
   DESCRIPTION
