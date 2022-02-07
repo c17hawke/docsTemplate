@@ -1,6 +1,4 @@
 # docsTemplate
 its just a template Repository for documentation
 
-```
-git clone https://github.com/c17hawke/docsTemplate
-```
+Click on `Use this template` button on the top right to use this repository as a boiler plate for your next documentation
